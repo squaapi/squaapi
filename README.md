@@ -19,7 +19,7 @@ I'm a tech geek, innovator, and all-around problem solver who loves diving into 
 ## 📫 Let's Connect!
 
 - **Instagram:** [@thatlaptopguy](https://www.instagram.com/thatlaptopguy/) *(Tech & Networking)*
-- **LinkedIn:** [Serdar Cvetkov](https://www.linkedin.com/in/serdar-cvetkov/)
+- **LinkedIn:** [Serdar Cvetkov](https://www.linkedin.com/in/serdarcvetkov/)
 - **GitHub:** Well, you’re already here, aren’t you? 😉
 
 ### ⚡ Fun Fact
