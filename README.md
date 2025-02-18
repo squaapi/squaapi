@@ -12,8 +12,8 @@ I'm a tech geek, innovator, and all-around problem solver who loves diving into 
 
 ## 🏆 Some Cool Stuff I've Done
 
-- 🥇 **1st Place in Europe** at the **Microsoft Office Specialist Championship 2024**
-- 🌟 Named **'Young Innovator'** at **MAKINOVA 2024**
+- 🥇 **1st Place in Europe** at the **Microsoft Office Specialist Championship 2024** under the **PowerPoint 2019** category.
+- 🌟 Named **'Young Innovator'** at **MAKINOVA 2024** with the creation of **GlaDe**, an AI system inspired by GlaDOS from Portal.
 - 💻 Worked as an intern & engineer at **European Operations Digitex Systems**, exploring software engineering in structural health monitoring
 
 ## 📫 Let's Connect!
