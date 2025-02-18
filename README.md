@@ -14,7 +14,7 @@ I'm a tech geek, innovator, and all-around problem solver who loves diving into 
 
 - 🥇 **1st Place in Europe** at the **Microsoft Office Specialist Championship 2024**
 - 🌟 Named **'Young Innovator'** at **MAKINOVA 2024**
-- 💻 Worked as an intern & analyst at **Digikom Computers**, helping explore AI sector development
+- 💻 Worked as an intern & engineer at **European Operations Digitex Systems**, exploring software engineering in structural health monitoring
 
 ## 📫 Let's Connect!
 
